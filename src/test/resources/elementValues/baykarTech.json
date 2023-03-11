@@ -1,0 +1,525 @@
+[
+  {
+    "key": "CAREER",
+    "value": "//a[text()='CAREER']",
+    "type": "xpath"
+  },
+  {
+    "key": "OPENPOSITIONS",
+    "value": "//a[text()='OPEN POSITIONS']",
+    "type": "xpath"
+  },
+  {
+    "key": "INTERNSHIP",
+    "value": "//a[text()='INTERNSHIP']",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQs",
+    "value": "//a[text()='FAQ']",
+    "type": "xpath"
+  },
+  {
+    "key": "BAYKAR",
+    "value": "//a[text()='BAYKAR']",
+    "type": "xpath"
+  },
+  {
+    "key": "Statistics",
+    "value": "(//a[@class='smooth-menu'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "OurCampuses",
+    "value": "(//a[@class='smooth-menu'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "TheBenefitsWeOffer",
+    "value": "(//a[@class='smooth-menu'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "SocialAreas",
+    "value": "(//a[@class='smooth-menu'])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "StatsHeading",
+    "value": "//h2[text()='STATS']",
+    "type": "xpath"
+  },
+
+  {
+    "key": "OurCampusesHeading",
+    "value": "//h2[text()='Our Campuses']",
+    "type": "xpath"
+  },
+  {
+    "key": "ÖzdemirBayraktarR&DandProductionCenterTab",
+    "value": "((//li[@class='active'])/a)[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "ÖzdemirBayraktarR&DandProductionCenterHeading",
+    "value": "(//div[@class='info title text-light'])[1]/h2",
+    "type": "xpath"
+  },
+  {
+    "key": "ÖzdemirBayraktarR&DandProductionCenterText",
+    "value": "(//div[@class='info title text-light'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "KesanFlightTrainingandTestCenterTab",
+    "value": "(//a[@data-toggle='tab'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "KesanFlightTrainingandTestCenterHeading",
+    "value": "//h2[text()='Keşan Flight Training and Test Center']",
+    "type": "xpath"
+  },
+  {
+    "key": "KesanFlightTrainingandTestCenterText",
+    "value": "(//div[@class='info title text-light'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "CorluFlightTrainingandTestCenterTab",
+    "value": "(//a[@data-toggle='tab'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "CorluFlightTrainingandTestCenterHeading",
+    "value": "//h2[text()='Çorlu Flight Training and Test Center']",
+    "type": "xpath"
+  },
+  {
+    "key": "CorluFlightTrainingandTestCenterText",
+    "value": "(//div[@class='info title text-light'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "TheBenefitsWeOfferHeading",
+    "value": "//h2[text()='BENEFITS WE OFFER']",
+    "type": "xpath"
+  },
+  {
+    "key": "Education",
+    "value": "(//div[@class='col-md-12 col-sm-12 equal-height'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "EducationText",
+    "value": "(//div[@class='col-md-8'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "ShuttleService",
+    "value": "(//div[@class='col-md-12 col-sm-12 equal-height'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "ShuttleServiceText",
+    "value": "(//div[@class='col-md-8'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "SocialLife",
+    "value": "(//div[@class='col-md-12 col-sm-12 equal-height'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "SocialLifeText",
+    "value": "(//div[@class='col-md-8'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "Health",
+    "value": "(//div[@class='col-md-12 col-sm-12 equal-height'])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "HealthText",
+    "value": "(//div[@class='col-md-8'])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "Nursery",
+    "value": "(//div[@class='col-md-12 col-sm-12 equal-height'])[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "NurseryText",
+    "value": "(//div[@class='col-md-8'])[5]",
+    "type": "xpath"
+  }, {
+    "key": "SocialAreasHeading",
+    "value": "//h2[text()='SOCIAL AREAS']",
+    "type": "xpath"
+  },
+  {
+    "key": "OpenPositionsHeading",
+    "value": "(//div[@class='site-heading text-center'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "OpenPositionsHeading1",
+    "value": "//strong[text()='Open positions']",
+    "type": "xpath"
+  },
+  {
+    "key": "InternshipSeasons",
+    "value": "//a[text()='Internship Seasons']",
+    "type": "xpath"
+  },
+  {
+    "key": "InternshipCalendar",
+    "value": "//a[text()='Internship Calendar']",
+    "type": "xpath"
+  },
+  {
+    "key": "InternshipFAQs",
+    "value": "//a[text()='Internship FAQs']",
+    "type": "xpath"
+  },
+  {
+    "key": "BaykarİnternShipHeading",
+    "value": "(//div[@class='site-heading text-center'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "BaykarİnternShipText",
+    "value": "//div[@class='site-heading text-center']/p",
+    "type": "xpath"
+  },
+  {
+    "key": "SpringSeason",
+    "value": "(//h3[@class='baykarH3'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "SummerSeason",
+    "value": "(//h3[@class='baykarH3'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "AutumnSeason",
+    "value": "(//h3[@class='baykarH3'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "SpringTermCalendarHeading",
+    "value": "(//div[@class='site-heading text-center'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "SummerTermCalendarHeading",
+    "value": "(//div[@class='site-heading text-center'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "FaqHeading",
+    "value": "//div[@class='heading']",
+    "type": "xpath"
+  },
+  {
+    "key": "QOneFAQ",
+    "value": "(//h4[@class='panel-title'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQParagraphOne",
+    "value": "(//div[@class='panel-body'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "QTwoFAQ",
+    "value": "(//h4[@class='panel-title'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQParagraphTwo",
+    "value": "(//div[@class='panel-body'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "Q3FAQ",
+    "value": "(//h4[@class='panel-title'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQParagraphThree",
+    "value": "(//div[@class='panel-body'])[3]",
+    "type": "xpath"
+  }, {
+    "key": "Q4FAQ",
+    "value": "(//h4[@class='panel-title'])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQParagraphFour",
+    "value": "(//div[@class='panel-body'])[4]",
+    "type": "xpath"
+  }, {
+    "key": "Q5FAQ",
+    "value": "(//h4[@class='panel-title'])[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQParagraphFive",
+    "value": "(//div[@class='panel-body'])[5]",
+    "type": "xpath"
+  }, {
+    "key": "Q6FAQ",
+    "value": "(//h4[@class='panel-title'])[6]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQParagraphSix",
+    "value": "(//div[@class='panel-body'])[6]",
+    "type": "xpath"
+  }, {
+    "key": "Q7FAQ",
+    "value": "(//h4[@class='panel-title'])[7]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQParagraphSeven",
+    "value": "(//div[@class='panel-body'])[7]",
+    "type": "xpath"
+  }, {
+    "key": "Q8FAQ",
+    "value": "(//h4[@class='panel-title'])[8]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQParagraphEight",
+    "value": "(//div[@class='panel-body'])[8]",
+    "type": "xpath"
+  }, {
+    "key": "Q9FAQ",
+    "value": "(//h4[@class='panel-title'])[9]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQParagraphNine",
+    "value": "(//div[@class='panel-body'])[9]",
+    "type": "xpath"
+  }, {
+    "key": "Q10FAQ",
+    "value": "(//h4[@class='panel-title'])[10]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQParagraphTen",
+    "value": "(//div[@class='panel-body'])[10]",
+    "type": "xpath"
+  }, {
+    "key": "Q11FAQ",
+    "value": "(//h4[@class='panel-title'])[11]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQParagraphEleven",
+    "value": "(//div[@class='panel-body'])[11]",
+    "type": "xpath"
+  }, {
+    "key": "Q12FAQ",
+    "value": "(//h4[@class='panel-title'])[12]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQParagraphTwelve",
+    "value": "(//div[@class='panel-body'])[12]",
+    "type": "xpath"
+  },
+  {
+    "key": "Q13FAQ",
+    "value": "(//h4[@class='panel-title'])[13]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQParagraphThirteen",
+    "value": "(//div[@class='panel-body'])[13]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitle1",
+    "value": "(//h4[@class='panel-title'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitle2",
+    "value": "(//h4[@class='panel-title'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitle3",
+    "value": "(//h4[@class='panel-title'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitle4",
+    "value": "(//h4[@class='panel-title'])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitle5",
+    "value": "(//h4[@class='panel-title'])[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitle6",
+    "value": "(//h4[@class='panel-title'])[6]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitle7",
+    "value": "(//h4[@class='panel-title'])[7]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitle8",
+    "value": "(//h4[@class='panel-title'])[8]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitle9",
+    "value": "(//h4[@class='panel-title'])[9]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitle10",
+    "value": "(//h4[@class='panel-title'])[10]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitle11",
+    "value": "(//h4[@class='panel-title'])[11]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitleParagraph1",
+    "value": "(//div[@class='panel-body'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitleParagraph2",
+    "value": "(//div[@class='panel-body'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitleParagraph3",
+    "value": "(//div[@class='panel-body'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitleParagraph4",
+    "value": "(//div[@class='panel-body'])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitleParagraph5",
+    "value": "(//div[@class='panel-body'])[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitleParagraph6",
+    "value": "(//div[@class='panel-body'])[6]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitleParagraph7",
+    "value": "(//div[@class='panel-body'])[7]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitleParagraph8",
+    "value": "(//div[@class='panel-body'])[8]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitleParagraph9",
+    "value": "(//div[@class='panel-body'])[9]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitleParagraph10",
+    "value": "(//div[@class='panel-body'])[10]",
+    "type": "xpath"
+  },
+  {
+    "key": "FAQTitleParagraph11",
+    "value": "(//div[@class='panel-body'])[11]",
+    "type": "xpath"
+  },
+  {
+    "key": "AllFAQsBtn",
+    "value": "//a[@class='btn btn-theme effect btn-sm']",
+    "type": "xpath"
+  },
+  {
+    "key": "Language",
+    "value": "//li[@class='baykarLi']",
+    "type": "xpath"
+  },
+  {
+    "key": "LOGIN",
+    "value": "(//div[@class='attr-nav button fixed-nav'])/ul/li[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "CreateAccount",
+    "value": "//a[@class='link-primary fw-bolder']",
+    "type": "xpath"
+  },
+
+  {
+    "key": "input_Email_Register",
+    "value": "(//input[@class='form-control form-control-lg form-control-solid'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "input_Password",
+    "value": "(//input[@class='form-control form-control-lg form-control-solid'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "input_NewPassword",
+    "value": "(//input[@class='form-control form-control-lg form-control-solid'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "recaptcha_Checkbox",
+    "value": "//span[@class='recaptcha-checkbox goog-inline-block recaptcha-checkbox-unchecked rc-anchor-checkbox']",
+    "type": "xpath"
+  },
+  {
+    "key": "btn_Register",
+    "value": "//button[@id='kt_sign_in_submit']",
+    "type": "xpath"
+  },
+  {
+    "key": "error_Message",
+    "value": "//span[text()=' This field is required.']",
+    "type": "xpath"
+  },
+  {
+    "key": "error_LoginMessage",
+    "value": "//span[text()='This field is required.']",
+    "type": "xpath"
+  },
+  {
+    "key": "Email_LoginPage",
+    "value": "(//input[@class='form-control form-control-lg form-control-solid'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "btn_Login",
+    "value": "//button[@class='btn btn-lg btn-primary w-100 mb-5']",
+    "type": "xpath"
+  }
+
+]
